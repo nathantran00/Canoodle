@@ -1,0 +1,90 @@
+const expensesData = [
+    {
+      id: '1',
+      date: 'October 24th',
+      name: 'Groceries',
+      category: 'Food & Dining',
+      amount: -47.55,
+    },
+    {
+      id: '2',
+      date: 'October 23rd',
+      name: 'Royal Vape',
+      category: 'Health & Wellness',
+      amount: -36.18,
+    },
+    {
+      id: '3',
+      date: 'October 23rd',
+      name: 'Japadog',
+      category: 'Food & Dining',
+      amount: -10.97,
+    },
+    {
+      id: '4',
+      date: 'October 23rd',
+      name: 'Matcha Whisk',
+      category: 'Shopping & Misc',
+      amount: -13.16,
+    },
+    {
+      id: '5',
+      date: 'October 22nd',
+      name: 'Uber',
+      category: 'Transportation',
+      icon: 'subway', 
+      amount: -32.05,
+    },
+    {
+      id: '6',
+      date: 'October 22nd',
+      name: 'Nemesis Coffee',
+      category: 'Food & Dining',
+      amount: -9.79,
+    },
+    {
+      id: '7',
+      date: 'October 21st',
+      name: 'Netflix',
+      category: 'Entertainment',
+      amount: -12.99,
+    },
+    {
+      id: '8',
+      date: 'October 20th',
+      name: 'Gym Membership',
+      category: 'Health & Wellness',
+      amount: -29.99,
+    },
+    {
+      id: '9',
+      date: 'October 19th',
+      name: 'Gas',
+      category: 'Transportation',
+      amount: -35.00,
+    },
+    {
+      id: '10',
+      date: 'October 18th',
+      name: 'Water Bill',
+      category: 'Housing & Utilities',
+      amount: -65.55,
+    },
+    {
+      id: '11',
+      date: 'October 17th',
+      name: 'Internet Bill',
+      category: 'Housing & Utilities',
+      amount: -50.00,
+    },
+    {
+      id: '12',
+      date: 'October 16th',
+      name: 'Birthday Gift',
+      category: 'Shopping & Misc',
+      amount: -45.00,
+    },
+  ];
+  
+  export default expensesData;
+  
